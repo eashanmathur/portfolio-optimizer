@@ -1,15 +1,15 @@
-# 💹 Smart Portfolio Optimizer 🇮🇳
+# Smart Portfolio Optimizer 
 
 A user-friendly Machine Learning project that helps you create a **personalized investment plan** based on your risk tolerance, income, and experience level.
 
 Built with:
-- Python 🐍
-- Streamlit 💻
-- scikit-learn 🤖
+- Python 
+- Streamlit 
+- scikit-learn 
 
 ---
 
-## 🎯 What This App Does
+## What This App Does
 
 1. Predicts your **risk profile** (Conservative / Balanced / Aggressive)
 2. Selects a **mix of stable and volatile stocks**
@@ -19,7 +19,7 @@ Built with:
 
 ---
 
-## 🧠 Machine Learning Used
+## Machine Learning Used
 
 | Purpose | ML Model |
 |--------|----------|
@@ -29,7 +29,7 @@ Built with:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - pandas, scikit-learn
@@ -38,7 +38,7 @@ Built with:
 
 ---
 
-## 🖥 How to Run the App
+## How to Run the App
 
 ```bash
 # 1. Activate virtual environment
